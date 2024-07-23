@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://resiston.github.io/sitemap
+Sitemap: https://resiston.github.io/app/sitemap
+Sitemap: https://resiston.github.io/assets/sitemap
+Sitemap: https://resiston.github.io/css/sitemap
+Sitemap: https://resiston.github.io/includes/sitemap
+Sitemap: https://resiston.github.io/item/sitemap
+Sitemap: https://resiston.github.io/src/sitemap
